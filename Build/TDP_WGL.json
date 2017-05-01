@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "TDP_WGL.data.unityweb",
+"asmCodeUrl": "TDP_WGL.asm.code.unityweb",
+"asmMemoryUrl": "TDP_WGL.asm.memory.unityweb",
+"asmFrameworkUrl": "TDP_WGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
